@@ -48,7 +48,7 @@ This project is a **Deep Learning-based web application** that predicts whether 
 ✅ Footer with developer credit
 
 
-## 🧪 requirements.txt
+## 🧪 Requirements.txt
 streamlit==1.32.2
 pandas==2.2.2
 scikit-learn==1.5.1
@@ -66,7 +66,7 @@ Confusion Matrix: Balanced prediction with decent precision
 Streamlit Community Cloud
   
 
-## 🙋‍♀️ Developer
+
 👩‍💻 Anushka Shree
 🎓 MCA Final Year | Frontend & AI Enthusiast
 📍 Bihar, India
