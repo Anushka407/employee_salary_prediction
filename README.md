@@ -68,7 +68,7 @@ Streamlit Community Cloud
 ## 🎯 Internship Overview
 This project was submitted for:
 - **Program**: IBM SkillsBuild Internship (AICTE - Edunet Foundation)
-- **Track**: Artificial Intelligence & Data Science
+- **Track**: Artificial Intelligence
 - **Duration**: [6 Weeks]
   
 
