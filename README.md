@@ -1,9 +1,8 @@
 # 💼 Employee Salary Prediction App
 
 This project is a **Deep Learning-based web application** that predicts whether an individual's annual income is **greater than or less than $50K** based on various demographic and employment features. The app is built with **Streamlit** and uses a trained **TensorFlow Keras model** under the hood.
-
-## 🚀 Demo_  
-**Developer:** [Anushka Shree](https://github.com/Anushka407)
+  
+## **Developer:** [Anushka Shree](https://github.com/Anushka407)
 
 
 ## 🧠 Model Overview
@@ -66,7 +65,7 @@ Confusion Matrix: Balanced prediction with decent precision
 Streamlit Community Cloud
   
 
-
+##
 👩‍💻 Anushka Shree
 🎓 MCA Final Year | Frontend & AI Enthusiast
 📍 Bihar, India
