@@ -63,11 +63,23 @@ Confusion Matrix: Balanced prediction with decent precision
 
 ## ☁️ Deployment Options
 Streamlit Community Cloud
+
+
+## 🎯 Internship Overview
+This project was submitted for:
+- **Program**: IBM SkillsBuild Internship (AICTE - Edunet Foundation)
+- **Track**: Artificial Intelligence & Data Science
+- **Duration**: [6 Weeks]
   
 
-##
+## Author
 👩‍💻 Anushka Shree
 🎓 MCA Final Year | Frontend & AI Enthusiast
 📍 Bihar, India
+
+## 📄 License
+This project was developed as part of the **IBM SkillsBuild Internship** under **AICTE** and **Edunet Foundation** (2025) and is open for educational and academic use.
+
+
 
 
